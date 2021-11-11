@@ -16,7 +16,7 @@ The school provides a small library to use which only contains some really basic
 
 Clone the repository:
 ```bash
-git clone https://github.com/ayeCaptainJack/so_long/
+git clone --recursive https://github.com/ayeCaptainJack/so_long/
 ```
 run make to compile the programm 
 ```bash
@@ -30,8 +30,34 @@ to start the game the map file needs to follow some rules else it will just retu
 
 
 ## Description
+**how to play...:**
+-use W A S D to move
+-collect all coins before going to the spaceship
+-if you try to fly away with the spaceship without collecting all coins you loose
+-press ESC or clicke the red cross to exit the window and the program
+
+**a valid map...:**
+-is sorrounded by walls (1)
+-contains at least one exit (E)
+-contains at leat one coin (C)
+-contains exactly one player (P)
+
+
+## Credits
+
+**links to the used xpm files:**
+exit.xpm : https://opengameart.org/content/64-x-64-animated-plane
+background.xpm : https://opengameart.org/content/all-textures-for-the-labyrinth-of-the-fertile-void
+collect.xpm : https://opengameart.org/content/gold-coin-0
+player.xpm : https://opengameart.org/content/gangster-0
+wall.xpm : https://opengameart.org/content/bricks-tiled-texture-64x64
+
 
 ## miniLibX
+the project uses miniLibx a basic window mangement library you can find it here:
+https://github.com/42Paris/minilibx-linux
 
 ## libft
+the project uses the submodule libft which is an earlier project of the 42 core curriculum
+you can find mine here: https://github.com/ayeCaptainJack/libft
 

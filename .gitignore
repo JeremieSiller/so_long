@@ -52,7 +52,7 @@ Mkfile.old
 dkms.conf
 
 #programm:
-so_long.a
+so_long
 
 #settings
 .vscode
