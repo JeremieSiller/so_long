@@ -46,11 +46,12 @@ to start the game the map file needs to follow some rules else it will just retu
 ## Credits
 
 **links to the used xpm files:**
-exit.xpm : https://opengameart.org/content/64-x-64-animated-plane
-background.xpm : https://opengameart.org/content/all-textures-for-the-labyrinth-of-the-fertile-void
-collect.xpm : https://opengameart.org/content/gold-coin-0
-player.xpm : https://opengameart.org/content/gangster-0
-wall.xpm : https://opengameart.org/content/bricks-tiled-texture-64x64
+-exit.xpm : https://opengameart.org/content/64-x-64-animated-plane
+-background.xpm : https://opengameart.org/content/
+all-textures-for-the-labyrinth-of-the-fertile-void
+-collect.xpm : https://opengameart.org/content/gold-coin-0
+-player.xpm : https://opengameart.org/content/gangster-0
+-wall.xpm : https://opengameart.org/content/bricks-tiled-texture-64x64
 
 
 ## miniLibX
