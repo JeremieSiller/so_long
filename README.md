@@ -40,7 +40,7 @@ to start the game the map file needs to follow some rules else it will just retu
 **a valid map...**
 - is sorrounded by walls (1)
 - contains at least one exit (E)
-- contains at leat one coin (C)
+- contains at least one coin (C)
 - contains exactly one player (P)
 
 
