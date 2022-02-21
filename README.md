@@ -17,7 +17,7 @@ The school provides a small library to use which only contains some really basic
 
 Clone the repository:
 ```bash
-git clone --recursive https://github.com/ayeCaptainJack/so_long/
+git clone --recursive https://github.com/JeremieSiller/so_long/
 ```
 run make to compile the programm 
 ```bash
